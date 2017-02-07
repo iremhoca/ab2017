@@ -3,8 +3,8 @@
 #include <OneWire.h> // OneWire kütüphanesini ekliyoruz.
 
 
-#define wifi_ssid "irem"
-#define wifi_password "irem0694."
+#define wifi_ssid "ag_adi"
+#define wifi_password "sifre"
 
 
 #define mqtt_server "m13.cloudmqtt.com"
